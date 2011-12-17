@@ -25,7 +25,7 @@
     "colors": "0.5.x",
     "coffee-script": "1.1.x",
     "optimist": "0.2.x",
-    "express": "2.4.x",
+    "express": "2.5.x",
     "stylus": "0.13.x",
     "coffeekup": "0.3.x",
     "mongodb": "0.9.x"
